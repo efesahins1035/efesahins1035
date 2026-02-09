@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Efe Şahin!
+# 👋 Hey, I'm Efe Şahin!
 
 <div align="center">
   
@@ -8,32 +8,32 @@
 
 ---
 
-## 🎯 Hakkımda
+## 🎯 About Me
 
 ```yaml
 name: Efe Şahin
-location: Türkiye 🇹🇷
+location: Turkey 🇹🇷
 role: Student & Developer
 interests:
-  - 🛩️ İHA / SİHA Teknolojileri
-  - 🔐 Siber Güvenlik (Web Security)
-  - 🤖 Otomasyon & AI
-status: Öğrenmeye devam ediyor...
+  - 🛩️ UAV / UCAV Technologies
+  - 🔐 Cybersecurity (Web Security)
+  - 🤖 Automation & AI
+status: Always learning...
 ```
 
 ---
 
-## 🛠️ Teknolojiler & Araçlar
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programlama Dilleri
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### İlgi Alanları
+### Focus Areas
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Drone](https://img.shields.io/badge/UAV%20/%20UCAV-000000?style=for-the-badge&logo=dji&logoColor=white)
 
@@ -41,7 +41,7 @@ status: Öğrenmeye devam ediyor...
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -55,7 +55,7 @@ status: Öğrenmeye devam ediyor...
 
 ---
 
-## 🌐 Bana Ulaş
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -68,8 +68,8 @@ status: Öğrenmeye devam ediyor...
 
 <div align="center">
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=efesahins1035&color=00d4aa&style=flat-square&label=Profil+Ziyaretçisi)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=efesahins1035&color=00d4aa&style=flat-square&label=Profile+Views)
   
-  *"Kod yazmak bir sanattır, debug yapmak ise sabır işi."* ✨
+  *"Writing code is an art, debugging is patience."* ✨
 
 </div>
